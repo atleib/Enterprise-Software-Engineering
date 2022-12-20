@@ -11,3 +11,4 @@ A cronjob to query and request files onto the server ran every hour, having the 
 Another cronjob runs after 30 minutes from the previous cron job to upload the files from the server to the database as a content blob (upload_receive_database.php).
 ![image](https://user-images.githubusercontent.com/87762720/208569091-f54f1bee-f648-4e9b-82e4-b616b0d0e01e.png)
 
+Created reporting of the files received from the API.
